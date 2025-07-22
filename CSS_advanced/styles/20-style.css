@@ -188,7 +188,7 @@ ul.row {
     text-align: right;
 }
 
-row::after {
+.row::after {
     display: none;
     table-layout: auto;
     float: none;
