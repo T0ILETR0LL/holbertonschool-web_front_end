@@ -1,8 +1,10 @@
+* , *::before, *::after {
+    box-sizing: border-box;
+}
 
-html ::before {
+html {
     scroll-behavior: smooth;
     font-size: 62.5%;
-    box-sizing: border-box;
 }
 
 body {
