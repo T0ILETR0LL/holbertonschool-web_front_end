@@ -44,7 +44,7 @@ a:active {
     color: color-primary;
 }
 
-.section-header.section::before {
+.section {
     padding: var(--section-padding);
 }
 
