@@ -191,5 +191,5 @@ ul.row {
 .row::after {
     content: "";
     display: table;
-    float: 0;
+    float: none;
 }
