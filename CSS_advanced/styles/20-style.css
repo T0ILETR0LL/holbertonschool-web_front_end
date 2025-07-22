@@ -189,7 +189,7 @@ ul.row {
 }
 
 .row::after {
-    display: none;
-    table-layout: auto;
+    content: none;
+    display: table;
     float: none;
 }
