@@ -44,13 +44,13 @@ a:active {
     color: color-primary;
 }
 
+.section-header.section::before {
+    padding: var(--section-padding);
+}
+
 .section-header{
     text-align: var(--section-header-align);
     padding: var(--section-header-padding);
-}
-
-.section-header.section ::before {
-    padding: var(--section-padding);
 }
 
 .section-header.section-body {
