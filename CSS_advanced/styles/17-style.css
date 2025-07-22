@@ -48,7 +48,7 @@ a:active {
     text-align: var(--section-header-align);
 }
 
-.section-header:before.section {
+.section-header.section::before {
     padding: var(--section-padding);
 }
 
