@@ -338,7 +338,7 @@ ul.row {
     content: "";
 }
 
-.card-work:hover .card-work {
+.card-work:hover .card-title {
     opacity: 1;
 }
 
