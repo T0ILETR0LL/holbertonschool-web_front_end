@@ -398,7 +398,7 @@ ul.row {
 
 
 .button:hover {
-    transition: var(--transition-duration);
-    transition-property: color, transform;
-    transition-property: background-color, transform;
+    transition-duration: var(--transition-duration);
+    transition-property: background-color;
+    transition-property: color;
 }
