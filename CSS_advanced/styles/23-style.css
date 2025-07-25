@@ -206,7 +206,7 @@ ul.row {
 }
 
 .social-link {
-    text-rendering: block;
+    display: block;
 }
 
 .social-link > svg {
